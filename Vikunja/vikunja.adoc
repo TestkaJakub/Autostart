@@ -4,7 +4,7 @@
 Go back to xref:README.adoc[README]
 
 ## What it does?
-This script launches Vikunja server as well as the frontend web interface client.
+This script launches the Vikunja server and frontend web interface client.
 
 ## Why do I use it?
-Vikunja is my task menagement tool of choice for keeping track of my long term goals and tasks
+Vikunja is my preferred task management tool for tracking long-term goals and tasks.
