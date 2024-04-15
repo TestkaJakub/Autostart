@@ -1,0 +1,10 @@
+# Autostart
+This repository contains my custom autostart bat scripts tailored to my specific needs. Feel free to use them as a reference for creating your own autostart scripts. I'll keep this repository updated with the latest changes and provide brief descriptions for each script's purpose
+
+## Scripts
+
+:relfileprefix: Google Keep/
+* xref:googlekeep.adoc[`Google Keep.bat`]
+
+:relfileprefix: Vikunja/
+* xref:vikunja.adoc[`Vikunja.bat`]

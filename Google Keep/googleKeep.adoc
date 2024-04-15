@@ -1,0 +1,10 @@
+# Google Keep
+
+:relfileprefix: ../
+Go back to xref:README.adoc[README]
+
+## What it does?
+This script launches Google Keep using a web application wrapper, compatible with Brave browser
+
+## Why do I use it?
+I primarily use Google Keep on my phone for its convenient widget feature for quick notes. This script enables me to access Keep on my desktop without manual browser navigation
